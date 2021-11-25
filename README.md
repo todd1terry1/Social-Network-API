@@ -12,4 +12,4 @@
 ![Todd's weather dashboard](assets/images/nosql.png)
 
 ## Deployed Website
-https://todd1terry1.github.io/Weather-Dashboard/
+https://todd1terry1.github.io/Social-Network-API/
