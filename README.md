@@ -1,14 +1,12 @@
 # Social-Network-API
 
 ## Description 
-Weather-Dashboard is a dashboard that will run in the browser and feature dynamically updated HTML and CSS.
-It uses the OpenWeather One Call API to retrieve weather data for cities across the nation.
+ Social Network API is a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. 
 
 # Technologies Utilized
 * HTML
-* CSS
-* JavaScript/jQuery
-* BootStrap
+* MySQL
+* NoSQL
 
 
 ![Todd's weather dashboard](assets/images/nosql.png)
